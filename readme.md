@@ -4,7 +4,7 @@ Tekijät: Nico Soini, Simo Rönni
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [TODO-lista](https://todolist-using-jquery.netlify.app/)
-Linkki projektin videoesittelyyn [Nico](https://youtu.be/go1CBcqP68U),
+Linkki projektin videoesittelyyn [Nico](https://youtu.be/Y1RY5w7FsMQ),
 [Simo](https://youtu.be/07cSNnT4b8k)
 
 ## Työn jakautuminen 
