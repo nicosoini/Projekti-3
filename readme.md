@@ -4,7 +4,7 @@ Tekijät: Nico Soini, Simo Rönni
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [TODO-lista](https://dom-skriptaustodolist.netlify.app/)
-Linkki projektin videoesittelyyn [Nico](https://youtu.be/go1CBcqP68U)
+Linkki projektin videoesittelyyn [Nico]([https://youtu.be/go1CBcqP68U](https://www.youtube.com/watch?v=Y1RY5w7FsMQ)), [Simo](https://youtu.be/07cSNnT4b8k)
 
 ## Työn jakautuminen 
 Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Yhteistyö sujui erittäin hyvin ja saimme toteutettua TODO -listan ilman suurempia ongelmia. 
@@ -45,7 +45,7 @@ Käytimme seuraavia teknologioita: `html`, `css`, `Javascript`, `JQuery`.
 `html` käytettiin sovelluksen pohjana, johon loimme div-elementin, minkä sisällä TODO-lista toimii. HTML -koodista löytyy myös kaikki sovelluksen napit eli "buttonit". 
 `css` avulla loimme sovelluksen modernin ja mukavan ulkoasun, joka lisää käyttömukavuutta. CSS -koodi on suurin osa koodista, koska halusimme luoda sovelluksesta mahdollisimman modernin. 
 `Javascript` on sovelluksen helmi, josta löytyy kaikki toiminnallisuudet sovelluksen toimimiselle. Niin buttonien toiminnallisuus, kuin virheilmoituksen lähetys on luotu scriptiin. 
-`JQuery` kirjastoista käytimme .fadein() ominaisuutta luomaan käyttömukavuutta listauksen lisäyksen ja poistamisen yhteyteen. Listaukset lisäytyvät ja poistuvat hienon efektin kanssa
+`JQuery` kirjastoista käytimme .fadein() ja .fadeout() ominaisuutta luomaan käyttömukavuutta listauksen lisäyksen ja poistamisen yhteyteen. Listaukset lisäytyvät ja poistuvat hienon efektin kanssa
 
 ## Asennus
 Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi:  
