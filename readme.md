@@ -4,7 +4,7 @@ Tekijät: Nico Soini, Simo Rönni
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [TODO-lista](https://dom-skriptaustodolist.netlify.app/)
-Linkki projektin videoesittelyyn [Nico](https://youtu.be/go1CBcqP68U)
+Linkki projektin videoesittelyyn [Nico](https://youtu.be/go1CBcqP68U),
 [Simo](https://youtu.be/07cSNnT4b8k)
 
 ## Työn jakautuminen 
@@ -62,4 +62,4 @@ Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse my�
 
 ## Lisenssi
 
-MIT-lisenssi @ [Nico Soini](https://github.com/nicosoini/TODO-list/blob/main/LICENSE)
+MIT-lisenssi @ [Nico Soini](https://github.com/nicosoini/Projekti-3/blob/main/LICENSE)
