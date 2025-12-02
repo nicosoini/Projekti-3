@@ -4,7 +4,7 @@ Tekijät: Nico Soini, Simo Rönni
 
 ## Verkkolinkit:
 Pääset julkaistuun sovellukseen käsiksi osoitteessa [TODO-lista](https://dom-skriptaustodolist.netlify.app/)
-Linkki projektin videoesittelyyn [Nico]([https://youtu.be/go1CBcqP68U](https://www.youtube.com/watch?v=Y1RY5w7FsMQ)), [Simo](https://youtu.be/07cSNnT4b8k)
+Linkki projektin videoesittelyyn [Nico]([https://youtu.be/go1CBcqP68U](https://www.youtube.com/watch?v=Y1RY5w7FsMQ)) , [Simo](https://youtu.be/07cSNnT4b8k)
 
 ## Työn jakautuminen 
 Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Yhteistyö sujui erittäin hyvin ja saimme toteutettua TODO -listan ilman suurempia ongelmia. 
