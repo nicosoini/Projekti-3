@@ -58,7 +58,7 @@ Kirjoita lyhyet ohjeet sovelluksen käynnistämiseen ja käyttöön. Esimerkiksi
 Lista lähteistä ja esimerkeistä, joita käytit projektin aikana. Mainitse myös, jos käytit ChatGPT:tä tai muita tekoälytyökaluja koodauksen aikana ja kerro, miten ne auttoivat sinua.  
 - Mr. Web Designer. 2020. To Do List App Using HTML - CSS - JQUERY | [ Beginner ]. https://www.youtube.com/watch?v=u4p6x-QH_vI
 - JQuery. (n.d). .fadeIn(). https://api.jquery.com/fadeIn/
-- ChatGPT:tä käytettiin koodauksen aikana 
+- ChatGPT:tä käytettiin koodauksen aikana ulkoasun tekemiseen, jotta saimme mahdollisimman hienon sivuston. Lisäksi tarvitsimme hieman apua JQueryn kanssa, jotta fadein ja fadeout -efektit toimivat oikealla tavalla.
 
 ## Lisenssi
 
