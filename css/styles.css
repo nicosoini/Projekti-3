@@ -1,0 +1,147 @@
+/* Poistetaan oletus marginaalit ja paddingit elementeiltä, lisätään fontti */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-sizing: border-box;
+  /* Sivun tausta */
+}
+.container {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(10deg, rgb(167, 195, 247), rgb(247, 247, 247));
+  padding: 10px;
+}
+/* TODO-listan laatikko, joka keskitetään sivulle, annetaan maksimileveys */
+.todo {
+  width: 100%;
+  max-width: 540px;
+  background: linear-gradient(2deg, rgb(255, 255, 255), rgb(159, 199, 248));
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;
+  border-radius: 20px;
+  opacity: 0.85;
+  box-shadow: 5px 10px 25px rgba(0, 51, 99, 0.1);
+}
+/* TODO-listan otsikon tyyli */
+.todo h2 {
+  color: rgb(54, 121, 175);
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+/* Rivi, jossa input ja napit ovat samassa rivissä */
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #edeef0;
+  border-radius: 20px;
+  padding-left: 20px;
+  margin-bottom: 25px;
+}
+/* "Lisää" -napin tyyli */
+#addBtn {
+  border: none;
+  outline: none;
+  padding: 10px 15px;
+  background: linear-gradient(2deg, rgb(92, 182, 255), rgb(255, 255, 255));
+  color: #004a75;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* "Lisää" -napin tyyli, kun hiiri viedään päälle */
+#addBtn:hover {
+  background: linear-gradient(2deg, rgb(1, 77, 139), rgb(2, 154, 255));
+}
+/* Poistetaan listamerkinnät */
+ul li {
+  list-style-type: none;
+}
+/* X-painikkeen tyyli */
+ul li span {
+  position: absolute;
+  right: 0;
+  top: 5;
+  width: 40px;
+  height: 40px;
+  font-size: 22px;
+  color: #b8abab;
+  line-height: 40px;
+  text-align: center;
+}
+/* Kun hiiri viedään listauksen päälle */
+ul li:hover {
+  background: linear-gradient(45deg, rgb(35, 150, 245), rgb(255, 255, 255));
+}
+/* "Tehtävä suoritettu", yliviivaus */
+ul li.checked {
+  background: linear-gradient(45deg, rgb(1, 54, 97), rgb(5, 10, 17));
+  color: #ffffff;
+  text-decoration: line-through;
+}
+/* Listauksien tyyli */
+li {
+  position: relative;
+  padding: 5px 2px 2px 14px;
+  font-size: 18px;
+  background: linear-gradient(45deg, rgb(92, 182, 255), rgb(255, 255, 255));
+  color: rgb(8, 2, 0);
+}
+/* "Clear" -napin tyyli */
+#clearBtn {
+  position: relative;
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: none;
+  outline: none;
+  background: linear-gradient(2deg, rgb(92, 182, 255), rgb(255, 255, 255));
+  color: #0066a1;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* "Clear" -napin tyyli, kun hiiri viedään päälle */
+#clearBtn:hover {
+  background: linear-gradient(2deg, rgb(1, 77, 139), rgb(2, 154, 255));
+}
+/* Syöttökentän muotoilu */
+input {
+  width: 60%;
+  height: 35px;
+  border:#a5d4fc 2px solid;
+  outline: none;
+  font-size: 16px;
+  background: linear-gradient(45deg, rgb(223, 237, 252), rgb(255, 255, 255));
+  border-radius: 5px;
+}
+/* "Add text" -muotoilu */
+input::placeholder {
+  color: #0573ce;
+  font-size: 13px;
+  padding: 20px;
+}
+/* Virheellinen kenttä korostus */
+.input-error {
+  border: 2px solid #00478a;
+}
+/* Virheviestin korostus */
+.warning-message {
+  color: #011d42;
+  font-size: 13px;
+  margin-top: 8px;
+}
+/* X -napin tyyli ja muotoilu */
+.close-btn {
+  background: linear-gradient(45deg, rgb(98, 170, 247), rgb(0, 54, 105));
+  position: absolute;
+  right: 8px;
+  top: 50%;
+  transform: translateY(-50%); /* Keskitetään pystysuunnassa */
+  border: none;
+  color: white;
+  font-size: 18px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+
