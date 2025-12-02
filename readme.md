@@ -8,7 +8,7 @@ Linkki projektin videoesittelyyn [Nico](https://youtu.be/go1CBcqP68U),
 [Simo](https://youtu.be/07cSNnT4b8k)
 
 ## Työn jakautuminen 
-Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin parissa. Yhteistyö sujui erittäin hyvin ja saimme toteutettua TODO -listan ilman suurempia ongelmia. 
+Työskentelimme molemmat niin HTML:n, CSS:n ja scriptin ja JQueryn kanssa. Työhon tunteja kului molemmilla noin 8 tuntia. Etenimme projektissa yhdessä ulkoasun, scriptin ja HTML:n parissa, joka helpotti molempien työtä, koska teimme samaa asiaa yhtä aikaa.
 
 ## Oma arvio työstä ja oman osaamisen kehittymisestä:
 Mielestämme onnistuimme luomaan toimivan ja hienon TODO -listan. Opimme edellisestä TODO -listasta, miten saamme listan toimimaan oikein heti ja JQueryn käyttö onnistuim molemmilla mainiosti.
