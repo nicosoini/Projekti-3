@@ -35,7 +35,7 @@ Oppimistani tukisi jos workshoppien jälkeen julkaistaisiin tallenteet, jossa n�
 TODO -lista on sovellus, joka antaa käyttäjälle mahdollisuuden listata erilaisia tehtäviä päivälle, viikolle, kuukaudelle jne. Käyttäjä pystyy merkitsemään tehtävät tehdyksi sekä poistamaan tarvittaessa tehtävät, joita ei tarvitse. TODO -lista helpottaa arjessa, sekä sen helppokäyttöisyys antaa moitteettoman perusteen käyttää sovellusta. Tähän TODO-listaan on lisätty myös fade-in efekti, joka tuo käyttömukavuutta.
 
 ## Kuvakaappaukset
-<img width="531" height="359" alt="image" src="https://github.com/user-attachments/assets/0ab1096e-f184-4932-be55-621f51d8ca49" />
+<img width="878" height="552" alt="image" src="https://github.com/user-attachments/assets/c7cce341-47bc-444f-9583-68ba7734165f" />
 
 
 Kuva: [Nico Soini](https://github.com/nicosoini)
