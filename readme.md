@@ -3,7 +3,7 @@ Projekti 3, TODO-list using JQuery.
 Tekijät: Nico Soini, Simo Rönni
 
 ## Verkkolinkit:
-Pääset julkaistuun sovellukseen käsiksi osoitteessa [TODO-lista](https://dom-skriptaustodolist.netlify.app/)
+Pääset julkaistuun sovellukseen käsiksi osoitteessa [TODO-lista](https://todolist-using-jquery.netlify.app/)
 Linkki projektin videoesittelyyn [Nico](https://youtu.be/go1CBcqP68U),
 [Simo](https://youtu.be/07cSNnT4b8k)
 
